@@ -1,0 +1,1 @@
+Todo project with Django framework and postgresql database 
